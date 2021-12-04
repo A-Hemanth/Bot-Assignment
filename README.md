@@ -1,4 +1,5 @@
-# Bot-Assignment Password Code
+# Bot-Assignment 
+Q.7 Password Code
 import re
 password= input("Input your password :")
 x = True
